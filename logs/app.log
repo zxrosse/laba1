@@ -1,0 +1,11 @@
+2026-03-08 13:46:13,161 INFO  packageaFile.Main - Запуск программы конвертера единиц
+2026-03-08 14:31:52,705 INFO  packageaFile.Main - Запуск программы конвертера единиц
+2026-03-08 14:32:41,660 INFO  packageaFile.Main - Пользователь выбрал тип: LENGTH
+2026-03-08 14:33:37,911 INFO  packageaFile.Converter - Начало конвертации: 1000.0 m -> km (LENGTH)
+2026-03-08 14:33:37,912 INFO  packageaFile.Converter - Результат конвертации: 1.0 km
+2026-03-08 14:33:37,913 INFO  packageaFile.Main - Программа завершена
+2026-03-08 14:36:04,761 INFO  packageaFile.Main - Запуск программы конвертера единиц
+2026-03-08 14:36:07,575 INFO  packageaFile.Main - Пользователь выбрал тип: MASS
+2026-03-08 14:37:03,262 INFO  packageaFile.Converter - Начало конвертации: 2.0 g -> kg (MASS)
+2026-03-08 14:37:03,263 INFO  packageaFile.Converter - Результат конвертации: 0.002 kg
+2026-03-08 14:37:03,264 INFO  packageaFile.Main - Программа завершена
