@@ -1,4 +1,6 @@
 package packageaFile;
 
-public class ConversionType {
+public enum ConversionType {
+    LENGTH,
+    MASS
 }

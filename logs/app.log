@@ -9,3 +9,14 @@
 2026-03-08 14:37:03,262 INFO  packageaFile.Converter - Начало конвертации: 2.0 g -> kg (MASS)
 2026-03-08 14:37:03,263 INFO  packageaFile.Converter - Результат конвертации: 0.002 kg
 2026-03-08 14:37:03,264 INFO  packageaFile.Main - Программа завершена
+2026-03-27 20:15:08,888 INFO  packageaFile.Main - Запуск программы конвертера единиц
+2026-03-27 20:15:14,259 INFO  packageaFile.Main - Пользователь выбрал тип: LENGTH
+2026-03-27 20:15:37,234 INFO  packageaFile.Converter - Начало конвертации: 20000.0 cm -> km (LENGTH)
+2026-03-27 20:15:37,236 INFO  packageaFile.Converter - Результат конвертации: 0.2 km
+2026-03-27 20:15:37,237 INFO  packageaFile.Main - Программа завершена
+2026-03-27 20:15:59,486 INFO  packageaFile.Main - Запуск программы конвертера единиц
+2026-03-27 20:16:01,544 INFO  packageaFile.Main - Пользователь выбрал тип: MASS
+2026-03-27 20:16:15,832 INFO  packageaFile.Converter - Начало конвертации: 28888.0 g -> kg (MASS)
+2026-03-27 20:16:15,833 INFO  packageaFile.Converter - Результат конвертации: 28.888 kg
+2026-03-27 20:16:15,834 INFO  packageaFile.Main - Программа завершена
+2026-03-29 19:13:59,575 INFO  packageaFile.Main - Запуск программы конвертера единиц
